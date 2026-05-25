@@ -107,9 +107,3 @@ Hibernate crea las tablas automáticamente al arrancar la aplicación.
 PROGRAMADO · EN_VUELO · ATERRIZADO · CANCELADO
 ```
 
-## Próximas sesiones
-
-
----
-
-Proyecto desarrollado en el módulo Spring Boot — Generation Colombia · TIFC2DEV
